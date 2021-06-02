@@ -9,3 +9,5 @@ The intention of this project is to produce addictive casual games that secretly
 ## The Purpose of this Repository
 
 This repository is intended to define and discuss the project and provide links to all the related code repositories.
+
+Please see the [Wiki](https://github.com/industrial-curiosity/zuzeca/wiki) for more info.
